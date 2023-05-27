@@ -1,8 +1,8 @@
 <?php
-<?php
+
 header("Location: public/views/login.php");
 exit();
-?>
+
 
 // Cargar archivo de configuración de la base de datos
 require_once 'database/db.php';
